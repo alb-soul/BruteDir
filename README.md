@@ -5,5 +5,11 @@ Simple python program for bruteforcing available directory on URL with wordlist
 
 Usage :
 input your target site, e.x. : xyz.com
+
 prepare txt file contains all list of keyword of directory name
+
 Status code simply indicates wheter the urls are valid or not.
+
+If Status Code is 200, the url available. There are many status code for HTTP response request,
+
+you can check it here : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status for detail
